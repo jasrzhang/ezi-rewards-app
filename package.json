@@ -10,8 +10,26 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-firebase/analytics": "^21.7.1",
+    "@react-native-firebase/app": "^21.7.1",
+    "@react-native-firebase/auth": "^21.7.1",
+    "@react-native-firebase/messaging": "^21.7.1",
+    "@react-navigation/native": "^7.0.14",
+    "@react-navigation/native-stack": "^7.2.0",
+    "@react-navigation/stack": "^7.1.1",
+    "axios": "^1.7.9",
+    "luxon": "^3.5.0",
+    "prop-types": "^15.8.1",
     "react": "18.3.1",
-    "react-native": "0.77.0"
+    "react-native": "0.77.0",
+    "react-native-barcode-builder": "^2.0.0",
+    "react-native-canvas": "^0.1.40",
+    "react-native-gesture-handler": "^2.22.1",
+    "react-native-safe-area-context": "^5.2.0",
+    "react-native-screens": "^4.6.0",
+    "react-native-toast-message": "^2.2.1",
+    "react-native-webview": "^13.13.2",
+    "tsid": "^1.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
@@ -25,6 +43,7 @@
     "@react-native/metro-config": "0.77.0",
     "@react-native/typescript-config": "0.77.0",
     "@types/jest": "^29.5.13",
+    "@types/luxon": "^3.4.2",
     "@types/react": "^18.2.6",
     "@types/react-test-renderer": "^18.0.0",
     "eslint": "^8.19.0",
