@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775160799395",
+    "project_id": "ezi-rewards-app",
+    "storage_bucket": "ezi-rewards-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775160799395:android:c85e3c2718e827207a1f16",
+        "android_client_info": {
+          "package_name": "com.ezirewardsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9iAPwJxn1J7U48HvAAjkX_CJSRoJmw5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
