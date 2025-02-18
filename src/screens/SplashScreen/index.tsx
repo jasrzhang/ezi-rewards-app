@@ -5,7 +5,7 @@ import type {RootStackParamList} from '@ezi-rewards/types';
 
 type Props = NativeStackScreenProps<RootStackParamList, 'SplashScreen'>;
 
-const SplashScreen: React.FC<Props> = ({navigation}) => {
+export const SplashScreen: React.FC<Props> = ({navigation}) => {
   useEffect(() => {
     const timer = setTimeout(() => {
       navigation.replace('HomeScreen'); // 🔥 Auto navigate after 2 seconds
@@ -20,8 +20,6 @@ const SplashScreen: React.FC<Props> = ({navigation}) => {
     </View>
   );
 };
-
-export default SplashScreen;
 
 const styles = StyleSheet.create({
   container: {

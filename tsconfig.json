@@ -5,9 +5,8 @@
     "resolveJsonModule": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
-    "baseUrl": "./src",
     "paths": {
-      "@ezi-rewards/*": ["*"]
+      "@ezi-rewards/*": ["./src/*"]
     }
   },
   "exclude": ["node_modules"]
