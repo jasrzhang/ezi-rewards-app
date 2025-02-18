@@ -17,6 +17,7 @@ end
 target 'EziRewardsApp' do
   
   use_frameworks! :linkage => :static
+  $RNFirebaseAsStaticFramework = true
 
   config = use_native_modules!
 

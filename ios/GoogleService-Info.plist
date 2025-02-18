@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC26f95gYlCWxn-tqKKfG9mCx1CYH-x_PE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>775160799395</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gapsolutions.ezi-rewards-app</string>
+	<key>PROJECT_ID</key>
+	<string>ezi-rewards-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ezi-rewards-app.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:775160799395:ios:dcd095ca471516177a1f16</string>
+</dict>
+</plist>
