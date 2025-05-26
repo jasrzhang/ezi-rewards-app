@@ -17,7 +17,11 @@ export const Root = () => {
           component={SplashScreen}
           options={{headerShown: false}}
         />
-        <Stack.Screen name="HomeScreen" component={HomeScreen} />
+        <Stack.Screen
+          name="HomeScreen"
+          component={HomeScreen}
+          options={{headerShown: false}}
+        />
       </Stack.Navigator>
     </NavigationContainer>
   );
